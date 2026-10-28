@@ -91,3 +91,7 @@ Doxyfile.in                      настройка документации
 .github/workflows/ci.yml         проверки и публикация
 AGENTS.md                        инструкции агенту
 ```
+
+## Документация
+
+[Документация](https://mmlezh.github.io/option-pricer-and-implied-volatility/)
